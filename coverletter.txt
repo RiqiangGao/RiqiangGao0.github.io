@@ -1,3 +1,0 @@
-I am a Ph.D. student at Vanderbilt University, focusing on medical imaging analysis and advised by Prof. Bennett Landman. I closely work with lung cancer clinical experts Dr. Pierre Massion and Dr. Kim Sandler. I completed my master's degree in Tsinghua Unveristy, focused on computer vision. I have over 20 publications in the field of computer vision and medical imaging. 
-
-
